@@ -34,8 +34,14 @@
     <img src="https://github-readme-stats.vercel.app/api?username=vivamini7&show_icons=true&theme=cobalt" alt="vivamini7's GitHub stats" height="152">
   </a>
   </br>
+  </br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivamini7&layout=compact" alt="Top Languages"  height="200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivamini7&layout=compact&color=black" alt="Top Languages"  height="200">
+  </a>
+  </br>
+  </br>  
+  <a href="https://solved.ac/{handle}">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=frozenpray" alt="Solved.ac frozenpray" height="180">
   </a>
 </div>
 </br>
