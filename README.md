@@ -31,8 +31,9 @@
 <div align="center">
   <h2>Else</h2>
   <a href="https://github.com/vivamini7/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=vivamini7&show_icons=true&theme=cobalt" alt="vivamini7's GitHub stats" height="200">
+    <img src="https://github-readme-stats.vercel.app/api?username=vivamini7&show_icons=true&theme=cobalt" alt="vivamini7's GitHub stats" height="152">
   </a>
+  </br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivamini7&layout=compact" alt="Top Languages"  height="200">
   </a>
