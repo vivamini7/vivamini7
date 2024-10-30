@@ -29,8 +29,7 @@
 </br>
 </br>
 <div align="center">
-  <div align="center">
-  <div align="center">
+  <h2>Else</h2>
   <a href="https://github.com/vivamini7/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=vivamini7&show_icons=true&theme=cobalt" alt="vivamini7's GitHub stats" height="200">
   </a>
@@ -43,7 +42,9 @@
   <h2>Contact me</h2>
   <img src="https://skillicons.dev/icons?i=instagram,gmail&theme=dark" alt="My Skills">
 </div>
+</br>
+</br>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=200&section=header&text=VIVAMINI&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40" alt="footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=100&section=footer&animation=fadeIn" alt="footer">
 </div>
 
